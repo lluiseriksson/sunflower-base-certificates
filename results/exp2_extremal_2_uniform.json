@@ -1,0 +1,184 @@
+{
+  "rows": [
+    {
+      "r": 3,
+      "parity": "odd",
+      "trivial_M_r_2": 4,
+      "optimal_M_r_2": 6,
+      "gain_edges": 2,
+      "trivial_base": 2.0,
+      "optimal_base_k2": 2.44949,
+      "base_gain": 0.44949
+    },
+    {
+      "r": 4,
+      "parity": "even",
+      "trivial_M_r_2": 9,
+      "optimal_M_r_2": 10,
+      "gain_edges": 1,
+      "trivial_base": 3.0,
+      "optimal_base_k2": 3.162278,
+      "base_gain": 0.162278
+    },
+    {
+      "r": 5,
+      "parity": "odd",
+      "trivial_M_r_2": 16,
+      "optimal_M_r_2": 20,
+      "gain_edges": 4,
+      "trivial_base": 4.0,
+      "optimal_base_k2": 4.472136,
+      "base_gain": 0.472136
+    },
+    {
+      "r": 6,
+      "parity": "even",
+      "trivial_M_r_2": 25,
+      "optimal_M_r_2": 27,
+      "gain_edges": 2,
+      "trivial_base": 5.0,
+      "optimal_base_k2": 5.196152,
+      "base_gain": 0.196152
+    },
+    {
+      "r": 7,
+      "parity": "odd",
+      "trivial_M_r_2": 36,
+      "optimal_M_r_2": 42,
+      "gain_edges": 6,
+      "trivial_base": 6.0,
+      "optimal_base_k2": 6.480741,
+      "base_gain": 0.480741
+    },
+    {
+      "r": 8,
+      "parity": "even",
+      "trivial_M_r_2": 49,
+      "optimal_M_r_2": 52,
+      "gain_edges": 3,
+      "trivial_base": 7.0,
+      "optimal_base_k2": 7.211103,
+      "base_gain": 0.211103
+    },
+    {
+      "r": 9,
+      "parity": "odd",
+      "trivial_M_r_2": 64,
+      "optimal_M_r_2": 72,
+      "gain_edges": 8,
+      "trivial_base": 8.0,
+      "optimal_base_k2": 8.485281,
+      "base_gain": 0.485281
+    },
+    {
+      "r": 10,
+      "parity": "even",
+      "trivial_M_r_2": 81,
+      "optimal_M_r_2": 85,
+      "gain_edges": 4,
+      "trivial_base": 9.0,
+      "optimal_base_k2": 9.219544,
+      "base_gain": 0.219544
+    },
+    {
+      "r": 11,
+      "parity": "odd",
+      "trivial_M_r_2": 100,
+      "optimal_M_r_2": 110,
+      "gain_edges": 10,
+      "trivial_base": 10.0,
+      "optimal_base_k2": 10.488088,
+      "base_gain": 0.488088
+    },
+    {
+      "r": 12,
+      "parity": "even",
+      "trivial_M_r_2": 121,
+      "optimal_M_r_2": 126,
+      "gain_edges": 5,
+      "trivial_base": 11.0,
+      "optimal_base_k2": 11.224972,
+      "base_gain": 0.224972
+    },
+    {
+      "r": 13,
+      "parity": "odd",
+      "trivial_M_r_2": 144,
+      "optimal_M_r_2": 156,
+      "gain_edges": 12,
+      "trivial_base": 12.0,
+      "optimal_base_k2": 12.489996,
+      "base_gain": 0.489996
+    },
+    {
+      "r": 14,
+      "parity": "even",
+      "trivial_M_r_2": 169,
+      "optimal_M_r_2": 175,
+      "gain_edges": 6,
+      "trivial_base": 13.0,
+      "optimal_base_k2": 13.228757,
+      "base_gain": 0.228757
+    },
+    {
+      "r": 15,
+      "parity": "odd",
+      "trivial_M_r_2": 196,
+      "optimal_M_r_2": 210,
+      "gain_edges": 14,
+      "trivial_base": 14.0,
+      "optimal_base_k2": 14.491377,
+      "base_gain": 0.491377
+    },
+    {
+      "r": 16,
+      "parity": "even",
+      "trivial_M_r_2": 225,
+      "optimal_M_r_2": 232,
+      "gain_edges": 7,
+      "trivial_base": 15.0,
+      "optimal_base_k2": 15.231546,
+      "base_gain": 0.231546
+    },
+    {
+      "r": 17,
+      "parity": "odd",
+      "trivial_M_r_2": 256,
+      "optimal_M_r_2": 272,
+      "gain_edges": 16,
+      "trivial_base": 16.0,
+      "optimal_base_k2": 16.492423,
+      "base_gain": 0.492423
+    },
+    {
+      "r": 18,
+      "parity": "even",
+      "trivial_M_r_2": 289,
+      "optimal_M_r_2": 297,
+      "gain_edges": 8,
+      "trivial_base": 17.0,
+      "optimal_base_k2": 17.233688,
+      "base_gain": 0.233688
+    },
+    {
+      "r": 19,
+      "parity": "odd",
+      "trivial_M_r_2": 324,
+      "optimal_M_r_2": 342,
+      "gain_edges": 18,
+      "trivial_base": 18.0,
+      "optimal_base_k2": 18.493242,
+      "base_gain": 0.493242
+    },
+    {
+      "r": 20,
+      "parity": "even",
+      "trivial_M_r_2": 361,
+      "optimal_M_r_2": 370,
+      "gain_edges": 9,
+      "trivial_base": 19.0,
+      "optimal_base_k2": 19.235384,
+      "base_gain": 0.235384
+    }
+  ]
+}

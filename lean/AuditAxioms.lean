@@ -1,0 +1,20 @@
+import SunflowerBase
+
+#print axioms SunflowerBase.odd_r_beats_trivial_block
+#print axioms SunflowerBase.even_r_beats_trivial_block
+#print axioms SunflowerBase.even_r_degree_sum_identity
+#print axioms SunflowerBase.odd_vertex_matching_obstruction
+#print axioms SunflowerBase.two_clique_matching_obstruction
+#print axioms SunflowerBase.base_tower_r3_strict
+#print axioms SunflowerBase.base_tower_r3_rational_brackets
+#print axioms SunflowerBase.extremal_two_uniform_table
+#print axioms SunflowerBase.supermultiplicative_product_mono
+#print axioms SunflowerBase.coloring_factor_exact_values
+#print axioms SunflowerBase.erdos_rado_crossover_B10_r3
+#print axioms SunflowerBase.erdos_rado_crossover_B20_r3
+#print axioms SunflowerBase.fixed_base_victory_persists
+#print axioms SunflowerBase.rational_root_lower_sound
+#print axioms SunflowerBase.razborov_factorial_savings
+#print axioms SunflowerBase.block_pigeonhole_lower_bound
+#print axioms SunflowerBase.uniform_padding_preserves_size
+#print axioms SunflowerBase.sunflower_verdict_exclusivity

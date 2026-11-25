@@ -1,0 +1,19 @@
+{
+  "schema": "SUNFLOWER-BASE-CERT-1.0",
+  "mode": "supermultiplicative_base_tower",
+  "r": 4,
+  "tower": [
+    {
+      "k": 1,
+      "m": 3,
+      "lb": "2999/1000",
+      "ub": "3001/1000"
+    },
+    {
+      "k": 2,
+      "m": 10,
+      "lb": "3162/1000",
+      "ub": "3163/1000"
+    }
+  ]
+}

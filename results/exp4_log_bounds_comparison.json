@@ -1,0 +1,165 @@
+{
+  "r": 3,
+  "rows": [
+    {
+      "k": 2,
+      "log2_erdos_rado": 3.0,
+      "log2_alwz_proxy": 9.9102,
+      "log2_fixed_B10": 6.6439,
+      "log2_fixed_B20": 8.6439,
+      "log2_hemi_icosa_lb": 2.8813
+    },
+    {
+      "k": 4,
+      "log2_erdos_rado": 8.585,
+      "log2_alwz_proxy": 21.7077,
+      "log2_fixed_B10": 13.2877,
+      "log2_fixed_B20": 17.2877,
+      "log2_hemi_icosa_lb": 5.7626
+    },
+    {
+      "k": 6,
+      "log2_erdos_rado": 15.4919,
+      "log2_alwz_proxy": 33.8699,
+      "log2_fixed_B10": 19.9316,
+      "log2_fixed_B20": 25.9316,
+      "log2_hemi_icosa_lb": 8.6439
+    },
+    {
+      "k": 8,
+      "log2_erdos_rado": 23.2992,
+      "log2_alwz_proxy": 46.255,
+      "log2_fixed_B10": 26.5754,
+      "log2_fixed_B20": 34.5754,
+      "log2_hemi_icosa_lb": 11.5251
+    },
+    {
+      "k": 10,
+      "log2_erdos_rado": 31.7911,
+      "log2_alwz_proxy": 58.7977,
+      "log2_fixed_B10": 33.2193,
+      "log2_fixed_B20": 43.2193,
+      "log2_hemi_icosa_lb": 14.4064
+    },
+    {
+      "k": 12,
+      "log2_erdos_rado": 40.8355,
+      "log2_alwz_proxy": 71.4613,
+      "log2_fixed_B10": 39.8631,
+      "log2_fixed_B20": 51.8631,
+      "log2_hemi_icosa_lb": 17.2877
+    },
+    {
+      "k": 14,
+      "log2_erdos_rado": 50.3432,
+      "log2_alwz_proxy": 84.2222,
+      "log2_fixed_B10": 46.507,
+      "log2_fixed_B20": 60.507,
+      "log2_hemi_icosa_lb": 20.169
+    },
+    {
+      "k": 16,
+      "log2_erdos_rado": 60.2501,
+      "log2_alwz_proxy": 97.0642,
+      "log2_fixed_B10": 53.1508,
+      "log2_fixed_B20": 69.1508,
+      "log2_hemi_icosa_lb": 23.0503
+    },
+    {
+      "k": 18,
+      "log2_erdos_rado": 70.5075,
+      "log2_alwz_proxy": 109.9755,
+      "log2_fixed_B10": 59.7947,
+      "log2_fixed_B20": 77.7947,
+      "log2_hemi_icosa_lb": 25.9316
+    },
+    {
+      "k": 20,
+      "log2_erdos_rado": 81.0774,
+      "log2_alwz_proxy": 122.9472,
+      "log2_fixed_B10": 66.4386,
+      "log2_fixed_B20": 86.4386,
+      "log2_hemi_icosa_lb": 28.8129
+    },
+    {
+      "k": 22,
+      "log2_erdos_rado": 91.9291,
+      "log2_alwz_proxy": 135.9723,
+      "log2_fixed_B10": 73.0824,
+      "log2_fixed_B20": 95.0824,
+      "log2_hemi_icosa_lb": 31.6941
+    },
+    {
+      "k": 24,
+      "log2_erdos_rado": 103.0377,
+      "log2_alwz_proxy": 149.0452,
+      "log2_fixed_B10": 79.7263,
+      "log2_fixed_B20": 103.7263,
+      "log2_hemi_icosa_lb": 34.5754
+    },
+    {
+      "k": 26,
+      "log2_erdos_rado": 114.382,
+      "log2_alwz_proxy": 162.1612,
+      "log2_fixed_B10": 86.3701,
+      "log2_fixed_B20": 112.3701,
+      "log2_hemi_icosa_lb": 37.4567
+    },
+    {
+      "k": 28,
+      "log2_erdos_rado": 125.9442,
+      "log2_alwz_proxy": 175.3164,
+      "log2_fixed_B10": 93.014,
+      "log2_fixed_B20": 121.014,
+      "log2_hemi_icosa_lb": 40.338
+    },
+    {
+      "k": 30,
+      "log2_erdos_rado": 137.7091,
+      "log2_alwz_proxy": 188.5078,
+      "log2_fixed_B10": 99.6578,
+      "log2_fixed_B20": 129.6578,
+      "log2_hemi_icosa_lb": 43.2193
+    },
+    {
+      "k": 32,
+      "log2_erdos_rado": 149.6633,
+      "log2_alwz_proxy": 201.7324,
+      "log2_fixed_B10": 106.3017,
+      "log2_fixed_B20": 138.3017,
+      "log2_hemi_icosa_lb": 46.1006
+    },
+    {
+      "k": 34,
+      "log2_erdos_rado": 161.7951,
+      "log2_alwz_proxy": 214.9879,
+      "log2_fixed_B10": 112.9456,
+      "log2_fixed_B20": 146.9456,
+      "log2_hemi_icosa_lb": 48.9819
+    },
+    {
+      "k": 36,
+      "log2_erdos_rado": 174.0943,
+      "log2_alwz_proxy": 228.2722,
+      "log2_fixed_B10": 119.5894,
+      "log2_fixed_B20": 155.5894,
+      "log2_hemi_icosa_lb": 51.8631
+    },
+    {
+      "k": 38,
+      "log2_erdos_rado": 186.5517,
+      "log2_alwz_proxy": 241.5834,
+      "log2_fixed_B10": 126.2333,
+      "log2_fixed_B20": 164.2333,
+      "log2_hemi_icosa_lb": 54.7444
+    },
+    {
+      "k": 40,
+      "log2_erdos_rado": 199.159,
+      "log2_alwz_proxy": 254.92,
+      "log2_fixed_B10": 132.8771,
+      "log2_fixed_B20": 172.8771,
+      "log2_hemi_icosa_lb": 57.6257
+    }
+  ]
+}

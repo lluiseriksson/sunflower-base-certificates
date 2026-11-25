@@ -1,0 +1,18 @@
+{
+  "schema": "SUNFLOWER-BASE-CERT-1.0",
+  "mode": "sunflower_free_family_exact",
+  "label": "r3_k1_trivial",
+  "ground_set_size": 2,
+  "k": 1,
+  "r": 3,
+  "family": [
+    [
+      0
+    ],
+    [
+      1
+    ]
+  ],
+  "claimed_size": 2,
+  "base_lower_bound": "2"
+}

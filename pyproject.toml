@@ -1,0 +1,11 @@
+[project]
+name = "sunflower-base-certificates"
+version = "1.0.0"
+description = "Exact-Z/Q extremal sunflower-free families, supermultiplicative base lower bounds b_r, and Erdős-Rado fixed-base crossover certificates."
+authors = [{ name = "Lluis Eriksson" }]
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+experiments = ["numpy>=1.26", "matplotlib>=3.8", "pytest>=8.0"]

@@ -1,0 +1,7 @@
+{
+  "schema": "SUNFLOWER-BASE-CERT-1.0",
+  "mode": "erdos_rado_fixed_base_crossover",
+  "r": 3,
+  "B": 50,
+  "k_star": 65
+}

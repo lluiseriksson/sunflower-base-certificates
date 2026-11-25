@@ -1,0 +1,50 @@
+{
+  "schema": "SUNFLOWER-BASE-CERT-1.0",
+  "mode": "graph_two_uniform_extremal",
+  "label": "AHS_2_uniform_r4",
+  "ground_set_size": 7,
+  "k": 2,
+  "r": 4,
+  "family": [
+    [
+      0,
+      1
+    ],
+    [
+      0,
+      3
+    ],
+    [
+      0,
+      6
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      1,
+      4
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      4
+    ],
+    [
+      4,
+      5
+    ],
+    [
+      5,
+      6
+    ]
+  ]
+}
